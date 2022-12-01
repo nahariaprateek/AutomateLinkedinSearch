@@ -24,12 +24,12 @@ Step to Create:-
 
 3. Go - to Extensions in google sheet and click on Apps Script.
 
-4. Create the project name & copy the fun_linkedinsearch - code in the repo.
+4. Create the project name & copy the fun_getPerson - code in the repo.
 
 5. follow up on this link in the new tab -> https://developers.google.com/custom-search/v1/overview
     Copy or obtain the API Key -> "Get a Key"
  
-6. Paste the API key in the original code of fun_linkedinsearch under "Get a Custom Search API Key" for the variable "var key"
+6. Paste the API key in the original code of fun_getPerson under "Get a Custom Search API Key" for the variable "var key"
     Eg - > var key = "kfkahf325h2h3htrq3;lhj2;hyl4hl;6hkl2h46lh25l3"
 
 7. follow up on this link in the new tab ->https://programmablesearchengine.google.com/
@@ -37,7 +37,7 @@ Step to Create:-
     7.2 Your new search engine has been created -> Click on "Customize" -> **"Search engine ID"** (Copy This )
     Copy or obtain the Search Engine ID
    
-8. Paste the Search Engine ID for the variable "let searchEngineId" in the fun_linkdinsearch function code.
+8. Paste the Search Engine ID for the variable "let searchEngineId" in the fun_getPerson function code.
 
 9. Go Back to Google Sheet, created as XXYYZZ.
 
